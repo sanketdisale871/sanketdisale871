@@ -4,13 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketdisale871&label=Profile%20views&color=0e75b6&style=flat" alt="sanketdisale871" /> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithms, DevOps**
+- 🌱 I’m currently learning **Data Structure and Algorithms, Web Development, DevOps**
+  
+- 👨‍💻 All of my projects are available at [Portfolio](https://sanketdisale871.github.io/sanketdisale/)
 
-- 💬 Ask me about **C++,DSA**
+- 💬 Ask me about **C++, DSA, Web Development**
 
 - 📫 How to reach me **sanketdisale871@gmail.com**
 
-- 📄 Link to my Resume [Resume](https://drive.google.com/file/d/1CSy9_-Dge4t47fM8oxcjhlM5cA0mBdv/view?usp)
+- 📄 Link to my Resume [Resume](https://drive.google.com/file/d/11AzNY_Wsu48b3f_pPCR7ATN5N6IhsTyJ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
